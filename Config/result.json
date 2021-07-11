@@ -1,0 +1,79 @@
+{"api3/newcourseskill":[
+    {
+    "sucess":
+        {
+            "status":0,
+            "data":{
+                "banner":[
+                    {
+                        "id":1709,
+                        "type":6,
+                        "type_id":354,
+                        "name":"Node.js开发仿知乎服务端 深入理解RESTful API",
+                        "pic":"http://szimg.mukewang.com/5d0ed27508f7d96909000300.jpg",
+                        "links":""
+                    }
+                ],
+                "pic":[
+                    {
+                        "pic":"http://www.imooc.com/static/img/andriod/pic/discover_day@3x.png",
+                        "pic_night":"http://www.imooc.com/static/img/andriod/pic/discover_night@3x.png",
+                        "type":5
+                    }
+                ]
+            },
+            "errorCode":1000,
+            "errorDesc":"成功",
+            "timestamp":0
+        }
+    },
+    {
+    "error":{
+        "status":0,
+        "data":"",
+        "errorCode":1002,
+        "errorDesc":"成功",
+        "timestamp":0
+        }
+    }
+],
+"api3/beta4":[
+    {
+        "sucess":
+        {
+            "status":51,
+            "data":{
+                "banner":[
+                    {
+                        "id":1709,
+                        "type":6,
+                        "type_id":354,
+                        "name":"Node.js开发仿知乎服务端 深入理解RESTful API",
+                        "pic":"http://szimg.mukewang.com/5d0ed27508f7d96909000300.jpg",
+                        "links":""
+                    }
+                ],
+                "pic":[
+                    {
+                        "pic":"http://www.imooc.com/static/img/andriod/pic/discover_day@3x.png",
+                        "pic_night":"http://www.imooc.com/static/img/andriod/pic/discover_night@3x.png",
+                        "type":5
+                    }
+                ]
+            },
+            "errorCode":1000,
+            "errorDesc":"失败",
+            "timestamp":0
+        }
+    },
+    {
+    "error":{
+        "status":0,
+        "data":"",
+        "errorCode":1002,
+        "errorDesc":"成功",
+        "timestamp":0
+        }
+    }
+]
+}

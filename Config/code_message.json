@@ -1,0 +1,57 @@
+{
+	"api3/getbanneradvertver2": [{
+		"1006": "token error"
+	}, {
+		"1006": "用户名错误"
+	}, {
+		"1006": "密码错误"
+	}],
+	"api3/beta4": [{
+		"1007": "登陆成功"
+	}, {
+		"1008": "用户名错误"
+	}, {
+		"1009": "密码错误"
+	}],
+	"api3/getcourseintroa": [{
+		"1006": "token error"
+	}, {
+		"10001": "用户名错误"
+	}, {
+		"10002": "密码错误"
+	}],
+	"api3/getcourseintro": [{
+		"data": []
+	}, {
+		"errorCode": 1006
+	}, {
+		"errorDesc": "token expire"
+	}, {
+		"status": 1
+	}, {
+		"timestamp": 1622747903330251
+	}],
+	"api3/getcoursei": [{
+		"data": []
+	}, {
+		"errorCode": 1007
+	}, {
+		"errorDesc": "token expire"
+	}, {
+		"status": 111
+	}, {
+		"timestamp": 162274790025111
+	}],
+	"api3/getcoursei222": [{
+		"data": []
+	}, {
+		"errorCode": 100222
+	}, {
+		"errorDesc": "token error222"
+	}, {
+		"status": 122
+	}, {
+		"timestamp": 1622747900252222
+	}]
+	
+}
